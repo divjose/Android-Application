@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTA_hosuing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="studentID">Net ID</string>
+    <string name="Login">Login</string>
+    <string name="title_activity_button_activitys">HOMEPAGE</string>
+    <string name="wcnote">Welcome to University Housing. To start your application, or to accept a contract offer, please click on the "Application" tab.</string>
+    <string name="title_activity_database_manager">DatabaseManager</string>
+    <string name="password">Password</string>
+    <string name="uta_housing">UTA HOUSING</string>
+    <string name="title_activity_reg">RegActivity</string>
+    <string name="regnote">Wecome you can register now</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="utd_id">UTD ID</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="next">Next</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="title_activity_housing_info">HousingInfo</string>
+    <string name="housing_prompt">Choose Something</string>
+    <string name="hsnote">Choose Housing Info</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_community_preference">CommunityPreference</string>
+    <string name="cmnote">You Have Successfully Applied</string>
+    <string name="edate">Eraliest Move In Date:</string>
+    <string name="ldate">Latest Move In Date:</string>
+    <string name="date_button">Continue</string>
+    <string name="c_parking">You want to use on campus parking</string>
+    <string name="title_activity_date">DateActivity</string>
+    <string name="title_activity_meningitis">MeningitisActivity</string>
+    <string name="title_activity_latest_date">LatestDateActivity</string>
+    <string name="meningitis">As of January 1, 2012, incoming Texas college students under 30 years old must be immunized against bacterial meningitis before they enroll in an institution of higher education.  </string>
+    <string name="link1">New Meningitis Vaccination Requirements:
+As of January 1, 2012, incoming Texas college students under 30 years old must be immunized against bacterial meningitis before they enroll in an institution of higher education.  
+
+The new law mandates that the following students be inoculated against the bacterial meningitis illness:  
+
+*First-time college students 
+
+*Students transferring from another institution
+
+*Students who are re-enrolling following a break of at least one fall or spring semester
+
+It is imperative that UT Arlington students who fall into one of the categories above and who plan to enroll for Summer 2012 or Fall 2012 be vaccinated as soon as possible.  Under the law, college students must have received the vaccine within the past five years.  Proof of inoculation is required 10 days before the start of the semester as the vaccine is considered effective several days after it is administered.  Limited exemptions are specified in state law. 
+
+UT Arlington has contracted with Magnus Health SMR to collect student vaccination records, verify the documents, and maintain the records in compliance with federal privacy laws. When you log in to your Magnus Health SMR account, you will be able to upload your proof of vaccination.    
+
+UT Arlington asks students to submit proof of vaccination to Magnus Health SMR, to ensure that documents are processed in time to comply with the law.  In addition, if you are required to receive the vaccination and are offered campus housing accommodations, you must comply with the meningitis vaccination requirements at least 10 days from a housing contract offer or 10 days before move in, whichever is earliest.  
+
+Students will not be permitted to move into on-campus housing until a full 10 days has passed since the date of the vaccination.  Students who have been approved for on-campus housing and have not received a vaccination in a timely manner will be expected to pay to stay in an off-campus hotel or make alternate arrangements for housing until the full 10 days have elapsed.  In addition, non-compliant students may experience financial penalites for failure to comply with their contractual obligations.  Students will not be allowed to enroll or move in to campus housing without submitting timely proof that they have complied with the meningitis vaccination law. 
+
+For answers to commonly asked questions, please visit www.uta.edu/meningitis.  For questions about document submission, please contact Magnus Health SMR at 1-877-461-6831 or service@magnushealthportal.com.
+
+Policies Subject to Change:  The University, in its sole discretion, reserves the right to make exceptions and changes to the assignment priorities and policies without prior notice and without compensation to applicants waiting for assignment to university housing. </string>
+    <string name="title_activity_online_agreement">OnlineAgreementActivity</string>
+    <string name="title_activity_status">StatusActivity</string>
+    <string name="housing_preference">Housing Preference</string>
+    <string name="application_status">Application Status</string>
+    <string name="waiting_number_">Waiting Number :</string>
+    <string name="title_activity_end">EndActivity</string>
+    <string name="title_activity_reg_activity1">RegActivity1</string>
+
+</resources>

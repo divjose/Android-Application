@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".OnlineAgreementActivity" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Online Agreement"
+        android:textSize="27sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:scrollbars="vertical"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="35dp"
+        android:autoLink="web"
+        android:text="By submitting this information, I acknowledge I have read, understood, and agree to abide by the information and policies as stated in the housing information materials.
+
+Upon receipt and processing of your housing application, UTA housing will prepare and send back a contract if accommodations are available. Housing is only guaranteed when we receive and process your signed contract, so don&apos;t delay. Policies and rates are subject to change without prior notification. 
+
+The Housing Office has policies and practices in effect which protect the security, confidentiality, and integrity of student records and adhere to FERPA. In order to view the FERPA rules and regulations, please visit http://www.uta.edu/admissions/ferpa.php" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_marginRight="120dp"
+        android:text="Apply" />
+</RelativeLayout>
